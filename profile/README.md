@@ -15,13 +15,13 @@ A pioneering research group aiming to develop solutions for health care using Na
 - Lucas Emanuel Silva e Oliveira
 - Lucas Ferro Antunes de Oliveira
 - Yohan Bonescki Gumiel
-- Josilaine
-- Lilian
-- Giuovanni
-- Mayara
-- Solano
-- Carolina
-- Rafael
+- Josilaine Oliveira Cezar
+- Lilian Mukai
+- Giovanni Paiva
+- Mayara Passaura da Luz
+- Solano Todeschini
+- Carolina Braun Prado
+- Rafael 
 - Fernanda
 - Gustavo
 
