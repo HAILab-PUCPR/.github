@@ -6,7 +6,7 @@ A pioneering research group aiming to develop solutions for health care using Na
 
 ## Contributors 
 
-**PUCPR**:
+**[PUCPR](https://www.pucpr.br/)**:
 
 - Cláudia Maria Cabral Moro Barra
 - Emerson Cabrera Paraiso
