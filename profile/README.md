@@ -11,10 +11,11 @@ A pioneering research group aiming to develop solutions for health care using Na
 - Cláudia Maria Cabral Moro Barra
 - Emerson Cabrera Paraiso
 - Elisa Terumi Rubel Schneider
-- João Vitor Andrioli de Souza
+- Deborah Ribeiro Carvalho
 - Lucas Emanuel Silva e Oliveira
-- Lucas Ferro Antunes de Oliveira
 - Yohan Bonescki Gumiel
+- João Vitor Andrioli de Souza
+- Lucas Ferro Antunes de Oliveira
 - Josilaine Oliveira Cezar
 - Lilian Mukai
 - Giovanni Paiva
