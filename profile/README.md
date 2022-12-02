@@ -17,6 +17,7 @@ PhD Students:
 - Elisa Terumi Rubel Schneider
 - Lilian Mukai
 - Lucas Emanuel Silva e Oliveira
+- Lucas Ronnau
 - Yohan Bonescki Gumiel
 
 Master Students:
