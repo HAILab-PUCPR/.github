@@ -10,15 +10,12 @@ A pioneering research group aiming to develop solutions for health care using Na
 
 Professors:
 - Cláudia Maria Cabral Moro Barra
+- Lucas Emanuel Silva e Oliveira
 - Deborah Ribeiro Carvalho
 - Emerson Cabrera Paraiso
 
 PhD Students:
 - Elisa Terumi Rubel Schneider
-- Lilian Mukai
-- Lucas Emanuel Silva e Oliveira
-- Lucas Ronnau
-- Yohan Bonescki Gumiel
 
 Master Students:
 - João Vitor Andrioli de Souza
@@ -32,9 +29,11 @@ Undergraduate Research Project:
 - Lucas Ferro Antunes de Oliveira
 
 Researchers:
+- Yohan Bonescki Gumiel
+- Lilian Mie Mukai
+- Lucas Ronnau
 - Fernanda
 - Rafael 
-- Solano Todeschini
 
 **External Collaborators**:
 - Adriana Pagano (UFMG)
