@@ -1,7 +1,7 @@
 
 # HAILab-PUCPR
 ### Health Artificial Intelligence Lab
-A pioneering research group aiming to develop solutions for health care using Natural Language Processing and Machine Learning
+A pioneering research group aiming to develop solutions for health care using Natural Language Processing and Machine Learning, focusing on the Portuguese language.
 
 
 ## Contributors 
