@@ -9,31 +9,28 @@ A pioneering research group aiming to develop solutions for health care using Na
 **[PUCPR](https://www.pucpr.br/)**:
 
 Professors:
-- Cláudia Maria Cabral Moro Barra
+- Claudia Moro 
 - Lucas Emanuel Silva e Oliveira
 - Deborah Ribeiro Carvalho
 - Emerson Cabrera Paraiso
 
-PhD Students:
-- Elisa Terumi Rubel Schneider
-
-Master Students:
-- João Vitor Andrioli de Souza
-- Josilaine Oliveira Cezar
-- Mayara Passaura da Luz
-- Gustavo
-
-Undergraduate Research Project:
-- Carolina Braun Prado
-- Giovanni Paiva
-- Lucas Ferro Antunes de Oliveira
-
 Researchers:
 - Yohan Bonescki Gumiel
+- Elisa Terumi Rubel Schneider
 - Lilian Mie Mukai
+- João Vitor Andrioli de Souza
+- Josilaine Oliveira Cezar
+- Rafael Guimarães
+- Mayara Passaura da Luz
+- Gustavo Riz
+- Lucas Ferro Antunes de Oliveira
+
+Collaborators
+- Carolina Braun Prado
+- Giovanni Paiva
 - Lucas Ronnau
-- Fernanda
-- Rafael 
+-  Fernanda
+
 
 **External Collaborators**:
 - Adriana Pagano (UFMG)
